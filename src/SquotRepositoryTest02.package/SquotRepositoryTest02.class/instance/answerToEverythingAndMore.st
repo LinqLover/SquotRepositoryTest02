@@ -1,0 +1,4 @@
+accessing
+answerToEverythingAndMore
+
+	^ 42

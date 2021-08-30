@@ -1,0 +1,14 @@
+{
+	"category" : "SquotRepositoryTest02",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SquotRepositoryTest02",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
