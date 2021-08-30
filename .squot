@@ -1,3 +1,4 @@
 OrderedDictionary {
-	'src/SquotRepositoryTest02.package' : #SquotCypressCodeSerializer
+	'src/SquotRepositoryTest02-Core.package' : #SquotCypressCodeSerializer,
+	'src/SquotRepositoryTest02-UI.package' : #SquotCypressCodeSerializer
 }
